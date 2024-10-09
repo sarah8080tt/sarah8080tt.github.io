@@ -11,7 +11,7 @@
     <header>
         <h1>Dataman</h1>
         <p>Master your math practice with the ultimate answer checker</p>
-        <p class="authors">by Mahamed Abdel and Sartah Houssein</p>
+        <p class="authors">by Mahamed Abdel and Sarah Houssein</p>
     </header>
 
     <!-- Navigation Panel -->
@@ -44,12 +44,12 @@
     <section id="github">
         <h2>Explore the Code</h2>
         <p>If you're interested in the technical side of Dataman, check out the project!</p>
-        <a href="https://github.com/MoeAbdel04/CTS-285/tree/main/dataman" target="_blank" id="github-btn">Check out my GitHub!</a>
+        <a href="https://github.com/sarah8080tt/CTS285/tree/main/Dataman" target="_blank" id="github-btn">Check out my GitHub!</a>
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 Mahamed Abdel. All rights reserved.</p>
+        <p>&copy; 2024 Sarah Houssein. All rights reserved.</p>
     </footer>
 </body>
 </html>
