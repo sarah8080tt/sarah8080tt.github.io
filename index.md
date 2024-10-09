@@ -1,10 +1,55 @@
-# Welcome to Dataman Project
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dataman - Math Practice Answer Checker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Dataman</h1>
+        <p>Master your math practice with the ultimate answer checker</p>
+        <p class="authors">by Mahamed Abdel and Sartah Houssein</p>
+    </header>
 
-## Revolutionizing Data Management
+    <!-- Navigation Panel -->
+    <nav>
+        <a href="#features">Features</a>
+        <a href="#about">About</a>
+        <a href="#github">GitHub</a>
+    </nav>
 
-The Dataman Project is a cutting-edge solution that aims to streamline and optimize data management processes. It provides tools for real-time analytics, data visualization, and more.
+    <!-- Features Section -->
+    <section id="features">
+        <h2>Key Features</h2>
+        <ul>
+            <li>Instant feedback on math answers</li>
+            <li>Difficulty settings for all levels</li>
+            <li>Detailed answer explanations</li>
+            <li>Track your progress over time</li>
+        </ul>
+        <img src="images/future.jpg" alt="Futuristic tech" class="tech-image">
+    </section>
 
-### Features:
-- Real-time data analysis
-- Powerful visualization tools
-- Secure and scalable infrastructure
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Dataman</h2>
+        <p>Dataman is a futuristic web app designed for those who want to practice and check their math answers effortlessly. Whether you're a beginner or an advanced user, Dataman offers a user-friendly, tech-inspired interface to make learning math intuitive and fun.</p>
+        <img src="holographic_dashboard.jpg" alt="Holographic digital dashboard" class="tech-image"> <!-- Replace with actual image path -->
+    </section>
+
+    <!-- GitHub Section -->
+    <section id="github">
+        <h2>Explore the Code</h2>
+        <p>If you're interested in the technical side of Dataman, check out the project!</p>
+        <a href="https://github.com/MoeAbdel04/CTS-285/tree/main/dataman" target="_blank" id="github-btn">Check out my GitHub!</a>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Mahamed Abdel. All rights reserved.</p>
+    </footer>
+</body>
+</html>
